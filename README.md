@@ -39,3 +39,5 @@ Implemented using Rust + tree-sitter, by @panrz.
 ```bash
 $ cargo run
 ```
+
+And visit localhost:18081
